@@ -89,7 +89,7 @@
     * ------------------------------------------------------ */
     var ssFinalCountdown = function() {
 
-        var finalDate =  new Date("May 10, 2023 08:30:00").getTime();
+        var finalDate =  new Date("May 10, 2023 23:50:00").getTime();
         //-date: "May 10 2021",
 
         $('.home-content__clock').countdown(finalDate)
